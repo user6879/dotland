@@ -1,12 +1,10 @@
 {
   "tasks": {
-    "start": "deno run -A --watch=routes/,static/ dev.ts",
-    "test": "deno test --allow-net --allow-read --allow-env --allow-hrtime"
+    "start": "deno run -A --watch=static/,routes/ dev.ts"
   },
+  "importMap": "./import_map.json",
   "compilerOptions": {
     "jsx": "react-jsx",
     "jsxImportSource": "preact"
-  },
-  "lock": false,
-  "importMap": "./import_map.json"
+  }
 }
