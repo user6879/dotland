@@ -1,55 +1,55 @@
 [
   {
     "language": "日本語",
-    "english": "Japanese",
+    "english": "Yapon",
     "link": "https://deno-ja.vercel.app/",
     "repository": "https://github.com/tokiedokie/deno_website2_japanese"
   },
   {
     "language": "العربية",
-    "english": "Arabic",
+    "english": "Arab",
     "link": "https://deno-ar.vercel.app/",
     "repository": "https://github.com/moncefplastin07/deno_website2"
   },
   {
     "language": "简体中文",
-    "english": "Simplified Chinese",
+    "english": "Xitoy",
     "link": "https://denoland-cn.deno.dev",
     "repository": "https://github.com/justjavac/denoland-cn"
   },
   {
     "language": "Español",
-    "english": "Spanish",
+    "english": "Ispan",
     "link": "https://deno-es.vercel.app/",
     "repository": "https://github.com/JheysonDev/deno_website2"
   },
   {
     "language": "Português",
-    "english": "Portuguese",
+    "english": "Portugal",
     "link": "https://deno-pt.vercel.app/",
     "repository": "https://github.com/mumumilk/deno_website2_portuguese"
   },
   {
     "language": "Français",
-    "english": "French",
+    "english": "Fransuz",
     "link": "https://deno-fr.vercel.app/",
     "repository": "https://github.com/Ayfri/deno_website2_fr"
   },
   {
     "language": "فارسی",
-    "english": "Persian",
+    "english": "Fors",
     "link": "https://deno-fa.vercel.app/",
     "repository": "https://github.com/ahgilak/deno_website2"
   },
   {
     "language": "کوردیی ناوەندی",
-    "english": "Central Kurdish",
+    "english": "Kurd",
     "link": "https://denoland-ckb.deno.dev",
     "repository": "https://github.com/roj1512/dotland"
   },
   {
     "language": "हिंदी",
-    "english": "Hindi",
+    "english": "Hind",
     "link": "https://hindi.deno.dev/",
     "repository": "https://github.com/slectgit/dotland-hi"
   }

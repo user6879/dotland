@@ -22,23 +22,23 @@ export default function TranslationsPage() {
   return (
     <>
       <ContentMeta
-        title="Translations"
-        description="Deno docs is available in the following languages."
+        title="Tarjimalar"
+        description="Deno docs quyidagi tillarda mavjud."
         keywords={["deno", "documentation", "translation"]}
       />
       <Header />
       <div class="section-x-inset-xl mt-8 mb-24">
         <div class="max-w-screen-lg mx-auto">
-          <h4 class="text-4xl font-bold tracking-tight">Translations</h4>
+          <h4 class="text-4xl font-bold tracking-tight">Tarjimalar</h4>
           <p class="mt-4 text-lg">
-            Deno docs is available in the following languages.
+            Deno docs tarjimalari quyidagi tillarda mavjud.
           </p>
           <p class="mt-4 text-lg">
-            Disclaimer: these pages are maintained by third party contributors
-            and not by Deno. They may contain out-of-date information.
+            Eslatma: bu sahifalar uchinchi tomon ko'ngillilari tomonidan tarjima qilingan,
+            Deno tomonidan emas. Ularda eski ma'lumotlar uchrashi mumkin.
           </p>
           <p class="mt-4 text-lg">
-            Deprecation Notice: we are not accepting new translations.
+            Eslatma: biz boshqa tarjimalarni qabul qilmayapmiz(Deno).
           </p>
         </div>
         <div class="my-16 flex flex-row flex-wrap gap-16 justify-evenly items-end">
